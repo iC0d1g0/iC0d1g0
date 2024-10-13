@@ -42,14 +42,16 @@ I enjoy socializing and sharing knowledges with others. I love teaching. I feel 
 - C
 - SQL
 - C#
+- Dart
 
 #### IDE, text editors and other tecnologies. 
 
-- MySql
-- Sql3
-- Microsoft Sql
-- Firebase
+- MySql.
+- Sql3.
+- Microsoft Sql.
+- Firebase.
 - Android Studio.
+- Flutter. 
 - Visual Studio.
 - Visual Studio Code.
 - NetBeans.
