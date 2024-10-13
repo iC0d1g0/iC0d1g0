@@ -17,21 +17,67 @@
 
 ## General details about me
 
-I’m a passionate technology professional with a unique blend of creativity and logic, always on the lookout for new adventures and challenges that keep my mind active and motivated. My choleric-sanguine personality makes me a calculated innovator, skeptical and curious, always questioning and seeking to understand even the most complex details. I deeply value education and respect in interpersonal relationships, and although I’m emotionally sensitive, this drives me to be even more responsible and considerate of others.
+I’m a passionate technology professional with a unique blend of creativity and logic, always looking for new adventures and challenges that keep my mind active and motivated. My proactive personality makes me a calculated innovator and skeptical and curious. I usually question, analyze and seek to understand even the smallest detail. I deeply value education and respect in interpersonal relationships, and although I’m emotionally stable in order to understand complex situations and changes, this drives me to be even more responsible and consideration of others.
 
-I enjoy socializing, especially with polite and respectful people. Routine bores me quickly, so I take advantage of my love for adventure and entertainment as motivators to build strong habits, which I maintain with discipline. My focus on self-discipline allows me to turn curiosity and fun into productivity and personal growth.
+I enjoy socializing and sharing knowledges with others. I love teaching. I feel happy by helping others to learn step by step new technologies.
+ Building strong habits, which I maintain with discipline. My focus on self-discipline allows me to turn curiosity and fun into productivity and personal growth.
+ 
+ ### SoftSkills
+ 
+- Good communication 
+- Interpersonal skills
+- Leadership
+- Problem-solving
+- Work ethic
+- Time management
+- Teamwork.
 
-As for my skills, I’m a true expert in logic,  and of course, programming. My technical arsenal includes:
+### Hard Skills
 
-- **Programming languages and technologies**: C#, ASP.NET, Blazor, HTML, CSS, JavaScript, TypeScript, PHP, React, Node.js, Express, MongoDB, C/C++, Rust, Python, Go, React Native, Dart, Flutter, Java, Kotlin, Jetpack Compose, MySQL, SQLite3, Android Studio, Visual Studio (Code and Community), Linux (Kali, Ubuntu, Mint, CentOS, Manjaro).
-- **Development and server management**: Experience in creating APIs, managing networks with UTP, and developing applications for Android TV.
-- **Ethical hacking**: Knowledge of techniques and tools to ensure information security and protection.
-- **Editing tool**s: Adobe Photoshop, After Effects, Filmora, OBS, LMMS, and of course, Figma and LottieFiles (with Lottie Creator).
-- **Productivity software**: Mastery of Microsoft Office and its alternatives.
+#### Programming Languages: 
 
-My ability to integrate various technologies and tools makes me a true tech surprise box. I’m always learning and constantly seeking new opportunities to apply my knowledge and skills in challenging projects.
+- Kotlin
+- Java
+- Python
+- C
+- SQL
+- C#
 
-If you’re looking for someone who is not only technically competent but also innovative and adaptable, I’m that person. I’d love to connect and explore how we can collaborate to take your projects to the next level. Let’s talk and create something amazing together! 🚀
+#### IDE, text editors and other tecnologies. 
+
+- MySql
+- Sql3
+- Microsoft Sql
+- Firebase
+- Android Studio.
+- Visual Studio.
+- Visual Studio Code.
+- NetBeans.
+- Eclipse.
+- Intellij IDEA.
+- CLion.
+- Code::Blocks.
+- Git/GitHub.
+- GNU/Linux.
+
+#### Agile and Desine patters. 
+- Scrum : As Scrum Master.
+- Clean Code.
+- Factory Pattern.
+- Builder pattern.
+- MVC
+- MVVM
+- MVP
+- Hexagonal Architecture.
+
+
+  
+#### Development and Experiences 
+- Senior Devoloper at SolidType.
+- Constributions with Xoubit S.R.L for Mobile Development.
+- Constributions at H4ckFormom hackaton developing a Mobile App.
+- Statied 1 year at Infotep "Mobile apps Development"
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
