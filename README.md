@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I'm Adderlis Jr. Severino (iCodigo) 👋</h1>
 </div>
-<img src="https://i.ibb.co/rvvjbvb/1719242869797.jpg">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQF-_zTTQbMAiQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728880670993?e=1734566400&v=beta&t=B1Ypag_VWywoBuBDI9cd3xAu-Cy8KJNv3n0tGEcMR0Q">
+
 
 [![GitHub followers](https://img.shields.io/github/followers/iC0d1g0?style=social)](https://github.com/iC0d1g0)
 
