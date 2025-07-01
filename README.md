@@ -8,7 +8,11 @@
 
 ## 🧠 Android Software Engineer – Kotlin & Java (Business Logic & Architecture)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iC0d1g0)](https://github.com/iC0d1g0)
+## 🧰 Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room-007ACC?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 Desarrollador Android especializado en **Kotlin** y **Java**, con foco en la **lógica de negocio**, el **diseño de arquitectura limpia** y el desarrollo de apps móviles robustas, mantenibles y escalables.
@@ -58,6 +62,10 @@ Apunto a trabajar en proyectos desafiantes que involucren:
 - Arquitectura MVVM, MVP, MVC, Hexagonal  
 - Git, GitHub / GitLab  
 - Scrum / Metodologías ágiles
+
+## 🌐 Contacto
+- 📫 Email: adderlis@live.com  
+- 💼 [LinkedIn]([tu-perfil-link](https://www.linkedin.com/in/adderlis-junior-severino-reyes-464179310/))  
 
 
 ### ⚙️ &nbsp;GitHub Analytics
