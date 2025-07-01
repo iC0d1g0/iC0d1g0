@@ -1,86 +1,60 @@
 <div align="center">
 <h1 align="center">Hi, I'm Adderlis Jr. Severino (iCodigo) 👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQF-_zTTQbMAiQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728880670993?e=1734566400&v=beta&t=B1Ypag_VWywoBuBDI9cd3xAu-Cy8KJNv3n0tGEcMR0Q">
+<img src="">
 
 
 [![GitHub followers](https://img.shields.io/github/followers/iC0d1g0?style=social)](https://github.com/iC0d1g0)
 
-## About me
+## 🧠 Android Software Engineer – Kotlin & Java (Business Logic & Architecture)
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile Developer
-- 🖥️ Desktop Developer
-- 🔌 Electronics
-- 👩‍💻 Security Research
-  
+Desarrollador Android especializado en **Kotlin** y **Java**, con foco en la **lógica de negocio**, el **diseño de arquitectura limpia** y el desarrollo de apps móviles robustas, mantenibles y escalables.
 
+Trabajo con tecnologías como **Room Database**, **Firebase (Firestore, Auth, Storage)** y **APIs REST**, aplicando patrones arquitectónicos sólidos (**MVVM**, **MVP**, **MVC**, **Arquitectura Hexagonal**) y buenas prácticas de desarrollo (**código limpio**, principios **SOLID**, pruebas, separación de responsabilidades**).
 
-## General details about me
+Me especializo en la capa lógica de las aplicaciones, sincronización offline/online, control de versiones (**Git**) y trabajo en equipo bajo **metodologías ágiles (Scrum)**.
 
-I’m a passionate technology professional with a unique blend of creativity and logic, always looking for new adventures and challenges that keep my mind active and motivated. My proactive personality makes me a calculated innovator and skeptical and curious. I usually question, analyze and seek to understand even the smallest detail. I deeply value education and respect in interpersonal relationships, and although I’m emotionally stable in order to understand complex situations and changes, this drives me to be even more responsible and consideration of others.
+---
 
-I enjoy socializing and sharing knowledges with others. I love teaching. I feel happy by helping others to learn step by step new technologies.
- Building strong habits, which I maintain with discipline. My focus on self-discipline allows me to turn curiosity and fun into productivity and personal growth.
- 
- ### SoftSkills
- 
-- Good communication 
-- Interpersonal skills
-- Leadership
-- Problem-solving
-- Work ethic
-- Time management
-- Teamwork.
+### 💻 También desarrollo:
+- Aplicaciones **desktop en Java** para Windows.
+- Herramientas y scripts en **Python, Kotlin y C/C++**.
+- Proyectos de **sistemas embebidos** y **electrónica avanzada SMD**.
 
-### Hard Skills
+---
 
-#### Programming Languages: 
+### 🚀 Intereses y aspiraciones
 
-- Kotlin
-- Java
-- Python
-- C
-- SQL
-- C#
-- Dart
+Apunto a trabajar en proyectos desafiantes que involucren:
 
-#### IDE, text editors and other tecnologies. 
+- Desarrollo de **sistemas operativos Android personalizados (AOSP)**.
+- Creación e integración de **drivers**.
+- Soluciones innovadoras en **robótica**, **IoT** y tecnologías emergentes.
 
-- MySql.
-- Sql3.
-- Microsoft Sql.
-- Firebase.
-- Android Studio.
-- Flutter. 
-- Visual Studio.
-- Visual Studio Code.
-- NetBeans.
-- Eclipse.
-- Intellij IDEA.
-- CLion.
-- Code::Blocks.
-- Git/GitHub.
-- GNU/Linux.
+---
 
-#### Agile and Desine patters. 
-- Scrum : As Scrum Master.
-- Clean Code.
-- Factory Pattern.
-- Builder pattern.
-- MVC
-- MVVM
-- MVP
-- Hexagonal Architecture.
+### 🌐 Idiomas
 
+- Español (C2 – Nativo)  
+- Inglés (C1 – Avanzado)  
+- Portugués (B2 – Intermedio alto)  
+- Ruso (A2 – Básico)  
+- Japonés (A2 – Básico)
 
-  
-#### Development and Experiences 
-- Senior Devoloper at SolidType.
-- Constributions with Xoubit S.R.L for Mobile Development.
-- Constributions at H4ckFormom hackaton developing a Mobile App.
-- Statied 1 year at Infotep "Mobile apps Development"
+---
 
+### 🧩 Stack principal
+
+- Kotlin / Java  
+- Jetpack Compose / XML  
+- Firebase (Firestore, Realtime DB, Auth, Storage)  
+- Room Database  
+- WorkManager  
+- Retrofit / Ktor  
+- Dagger Hilt  
+- Arquitectura MVVM, MVP, MVC, Hexagonal  
+- Git, GitHub / GitLab  
+- Scrum / Metodologías ágiles
 
 
 ### ⚙️ &nbsp;GitHub Analytics
