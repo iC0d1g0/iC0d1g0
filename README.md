@@ -8,6 +8,9 @@
 
 ## 🧠 Android Software Engineer – Kotlin & Java (Business Logic & Architecture)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iC0d1g0)](https://github.com/iC0d1g0)
+
+
 Desarrollador Android especializado en **Kotlin** y **Java**, con foco en la **lógica de negocio**, el **diseño de arquitectura limpia** y el desarrollo de apps móviles robustas, mantenibles y escalables.
 
 Trabajo con tecnologías como **Room Database**, **Firebase (Firestore, Auth, Storage)** y **APIs REST**, aplicando patrones arquitectónicos sólidos (**MVVM**, **MVP**, **MVC**, **Arquitectura Hexagonal**) y buenas prácticas de desarrollo (**código limpio**, principios **SOLID**, pruebas, separación de responsabilidades**).
