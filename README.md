@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Adderlis Jr. Severino (iCodigo) 👋</h1>
 </div>
-<img src="">
+<img src="https://raw.githubusercontent.com/iC0d1g0/iC0d1g0/019ab9a78672d81d6fb7e4cefc06148918788728/1728880670993.jpeg">
 
 
 [![GitHub followers](https://img.shields.io/github/followers/iC0d1g0?style=social)](https://github.com/iC0d1g0)
