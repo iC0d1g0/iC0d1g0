@@ -14,9 +14,18 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Room](https://img.shields.io/badge/Room-007ACC?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/iC0d1g0">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iC0d1g0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 😎 Sobre mi
 
 Desarrollador Android especializado en **Kotlin** y **Java**, con foco en la **lógica de negocio**, el **diseño de arquitectura limpia** y el desarrollo de apps móviles robustas, mantenibles y escalables.
-
 Trabajo con tecnologías como **Room Database**, **Firebase (Firestore, Auth, Storage)** y **APIs REST**, aplicando patrones arquitectónicos sólidos (**MVVM**, **MVP**, **MVC**, **Arquitectura Hexagonal**) y buenas prácticas de desarrollo (**código limpio**, principios **SOLID**, pruebas, separación de responsabilidades**).
 
 Me especializo en la capa lógica de las aplicaciones, sincronización offline/online, control de versiones (**Git**) y trabajo en equipo bajo **metodologías ágiles (Scrum)**.
@@ -62,17 +71,57 @@ Apunto a trabajar en proyectos desafiantes que involucren:
 - Arquitectura MVVM, MVP, MVC, Hexagonal  
 - Git, GitHub / GitLab  
 - Scrum / Metodologías ágiles
+  
+
+## 🚀 Proyectos Destacados
+
+
+### 📱 [Atenas POS Oficial](https://github.com/iC0d1g0/Atenas_POS_Oficial)
+
+Atenas es una aplicación POS diseñada para facilitar la gestión de pequeños y medianos negocios, especialmente en el sector de servicios técnicos como tiendas de celulares.
+
+**Tech Stack:** Kotlin · Jetpack Compose · Room · Firebase · Clean Architecture · MVVM
+
+---
+
+### 📱 [SolidNotes](https://github.com/iC0d1g0/SolidNotes)
+App Android desarrollada con Kotlin y Jetpack Compose. Sincroniza datos offline con Room. trabaja con arquitectura MVVM limpia.
+
+**Tech Stack:** Kotlin · Jetpack Compose · Room · Clean Architecture · MVVM
+
+---
+
+### 🖥️ [SolidDrivers](https://github.com/iC0d1g0/SolidDrivers)
+Aplicación de escritorio para Windows en Java. Automatiza la instalación de drivers desde una carpeta específica, extrae drivers originales. Pensada para técnicos y forenses.
+
+**Tech Stack:** Java · Windows APIs 
+
+---
+
+### 🖥️ [FireTool](https://github.com/iC0d1g0/FireTools/tree/main)
+FireTool es una herramienta sencilla pero efectiva diseñada para facilitar la instalación de los servicios de Google (incluyendo Play Store) en dispositivos Amazon Fire, sin necesidad de root ni modificaciones avanzadas.
+
+**Tech Stack:** Java · Windows APIs · Batch
+
+
+---
+
+### 🖥️ [Luna_rd](https://github.com/iC0d1g0/LunaRD)
+Luna_rd es una aplicación diseñada para ayudar a las mujeres a gestionar su ciclo menstrual. Este proyecto fue desarrollado en colaboración con colegas para el concurso Hack4Moms en la República Dominicana, realizado el 4 de febrero de 2024.
+
+**Tech Stack:** Flutter · Dart · Firebase - IA Apis
+
+---
+
+### 🤖 [AcomerYa](https://github.com/iC0d1g0/AcomerYa)
+AcomerYa es una aplicación móvil de recetas de cocina caseras, diseñada para ayudar a los usuarios a explorar y guardar recetas de manera sencilla.
+
+**Tech Stack:** Kotlin · XML · Firebase
+
+
 
 ## 🌐 Contacto
 - 📫 Email: adderlis@live.com  
 - 💼 [LinkedIn]([tu-perfil-link](https://www.linkedin.com/in/adderlis-junior-severino-reyes-464179310/))  
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/iC0d1g0">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iC0d1g0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
