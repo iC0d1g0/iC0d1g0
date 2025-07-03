@@ -32,6 +32,15 @@ Me especializo en la capa lógica de las aplicaciones, sincronización offline/o
 
 ---
 
+### 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,eclipse,vscode,clion,arduino,kotlin,java,cpp,c,py,stackoverflow,css,js,flutter,dart,git,github,gitlab,gradle,ubuntu,arch,apple,html,firebase&perline=5"/>
+</p>
+
+---
+
+
 ### 💻 También desarrollo:
 - Aplicaciones **desktop en Java** para Windows.
 - Herramientas y scripts en **Python, Kotlin y C/C++**.
